@@ -6,8 +6,8 @@ This Helm chart deploys the Lago billing system with various optional dependenci
 
 | Project            | Release Badge                                                                                       |
 |--------------------|-----------------------------------------------------------------------------------------------------|
-| **Lago**           | [![Lago Release](https://img.shields.io/github/v/release/getlago/lago)](https://github.com/getlago/lago/releases) |
-| **Helm Chart**     | [![Helm Chart Release](https://img.shields.io/github/v/release/getlago/lago-helm-charts)](https://github.com/getlago/lago-helm-charts/releases) |
+| **Lago**           | [![Lago Release](https://img.shields.io/github/v/release/wiadok/lago)](https://github.com/wiadok/lago/releases) |
+| **Helm Chart**     | [![Helm Chart Release](https://img.shields.io/github/v/release/wiadok/lago-helm-charts)](https://github.com/wiadok/lago-helm-charts/releases) |
 
 
 ## Prerequisites
