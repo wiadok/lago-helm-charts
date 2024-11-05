@@ -1,7 +1,7 @@
 apiVersion: v2
 appVersion: '1.15.2'
-description: the Lago open source billing app
-name: lago
+description: the Lago open source billing app. Forked by WIADOK
+name: wiadok-lago
 version: 1.15.2
 dependencies:
   - name: postgresql
