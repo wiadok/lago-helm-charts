@@ -1,4 +1,4 @@
-owner: getlago
+owner: wiadok
 git-repo: lago-helm-charts
-charts-repo-url: https://charts.getlago.com
+charts-repo-url: https://github.com/wiadok/lago-helm-charts
 packages-with-index: true
